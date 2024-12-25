@@ -5,8 +5,6 @@
 
 - :star: Learning how to build microservices
 
-- :mailbox: Telegram [@blthrst](https://blthrst.t.me)
-
 <br>
 
 💻 Technologies and tools stack
